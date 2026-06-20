@@ -37,20 +37,28 @@ order-to-cash-process-optimization/
 │   └── process_dataset_raw.csv
 ├── dashboard/
 │   └── Business_Process_Case_Study_Workbook.xlsx
+│   └── dashboard.pbix
 ├── process_maps/
 │   ├── as_is_process_map.png
 │   ├── to_be_process_map.png
 │   └── sipoc_map.png
 ├── reports/
 │   └── Business_Process_Optimization_Recommendation_Report.docx
-├── images/
-│   └── dashboard_screenshot.jpg
+├── screenshots/
+│   └── excel_dashboard_1.png
+│   └── excel_dashboard_2.png
+│   └── excel_dashboard_3.png
+│   └── power bi_dashboard_1.png
+│   └── power bi_dashboard_2.png
+│   └── power bi_dashboard_3.png
+│   └── power bi_dashboard_4.png
 ├── scripts/
-│   └── generate_dataset.py
-└── docs/
-    └── project_methodology_notes.md
+    └── generate_dataset.py
+
 ```
 
 ## Author
+
+Debarati Pal
 
 Business Analyst portfolio project — built as a practical, job-ready demonstration of process mapping, KPI analysis, and optimization consulting.
